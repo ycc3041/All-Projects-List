@@ -12,7 +12,7 @@
 #### ● Linear Programming Algorithm: Simplex Method  *(In progress, will be uploaded in Dec. 2018)*
 
 ## Logistics 
-#### ● Development of Logistics Data Visualization System @Yahoo Taiwan, Summer 2017
+#### ● [Development of Logistics Data Visualization System](https://github.com/ycc3041/All-Projects-List/blob/master/Development%20of%20Logistics%20Data%20Visualization%20System.pdf) @Yahoo Taiwan, Summer 2017
 
 ## Production Systems
-#### ● [Production & Operations Improvements](https://github.com/ycc3041/Non-Programming-Projects/blob/master/Production%20%26%20Operations%20Improvements.pdf) @Aeon Motor Industry, 2016
+#### ● [Production & Operations Improvements](https://github.com/ycc3041/All-Projects-List/blob/master/Production%20%26%20Operations%20Improvements.pdf) @Aeon Motor Industry, 2016
