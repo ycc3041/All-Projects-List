@@ -2,7 +2,9 @@
 
 #### ● Regression Analysis of Kickstarter Dataset  *(In progress, will be uploaded in Dec. 2018)*
 
-#### ● [Data Visualization](https://github.com/ycc3041/Data-Visualization), Fall 2018
+#### ● [Data Visualization], Fall 2018
+- Pokemon Data Visualization(https://public.tableau.com/profile/yung.ching.chen#!/vizhome/PokemonDataVisualization/Story1)
+- Other Projects((https://github.com/ycc3041/Data-Visualization)): Basic Visualization Techniques with Car Dataset, Visualization with Interaction with Countries Dataset, Networks Visualization with 1997 US Airlines Dataset
 
 #### ● [Machine Learning](https://github.com/ycc3041/Machine-Learning), Spring 2018
 
