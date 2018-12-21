@@ -2,7 +2,7 @@
 
 #### ● Regression Analysis of Kickstarter Dataset  *(In progress, will be uploaded in Dec. 2018)*
 
-#### ● Data Visualization, Fall 2018
+#### ● Data Visualization
 * [Development of Logistics Data Visualization System](https://github.com/ycc3041/All-Projects-List/blob/master/Development%20of%20Logistics%20Data%20Visualization%20System.pdf) @Yahoo Taiwan, Summer 2017
 * [Pokemon Data Visualization](https://public.tableau.com/profile/yung.ching.chen#!/vizhome/PokemonDataVisualization/Story1)
 * [Other Projects](https://github.com/ycc3041/Data-Visualization): 
