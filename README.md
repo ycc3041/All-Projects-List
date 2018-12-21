@@ -4,7 +4,6 @@
 
 #### ● Data Visualization, Fall 2018
 - [Pokemon Data Visualization](https://public.tableau.com/profile/yung.ching.chen#!/vizhome/PokemonDataVisualization/Story1)
-![pokemon](https://user-images.githubusercontent.com/44735519/50328960-31abfe80-04c3-11e9-87cf-8efede4ca0d5.gif)
 - [Other Projects](https://github.com/ycc3041/Data-Visualization): 
 Basic Visualization Techniques with Car Dataset, Visualization with Interaction with Countries Dataset, Networks Visualization with 1997 US Airlines Dataset
 
