@@ -12,7 +12,9 @@
 (3) Networks Visualization with 1997 US Airlines Dataset
 
 #### ● [Machine Learning](https://github.com/ycc3041/Machine-Learning)
-
+* Predicting House Prices
+* Analyzing Sentiment of Amazon Product Reviews
+* Finding Similar Wiki Documents
 
 # Industrial Engineering 
 ## Optimization 
