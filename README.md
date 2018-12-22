@@ -1,6 +1,7 @@
 # Data Scienece 
 
-#### ● [Regression Analysis of Health Insurance Charges](https://github.com/ycc3041/All-Projects-List/blob/master/Regression%20Analysis%20of%20Health%20Insurance%20Charges.pdf) 
+#### ● Regression Analysis 
+* [Health Insurance Charges](https://github.com/ycc3041/All-Projects-List/blob/master/Regression%20Analysis%20of%20Health%20Insurance%20Charges.pdf) 
 
 #### ● Data Visualization
 * [Development of Logistics Data Visualization System](https://github.com/ycc3041/All-Projects-List/blob/master/Development%20of%20Logistics%20Data%20Visualization%20System.pdf) @Yahoo Taiwan, Summer 2017
