@@ -4,7 +4,7 @@
 * [Health Insurance Charges](https://github.com/ycc3041/All-Projects-List/blob/master/Regression%20Analysis%20of%20Health%20Insurance%20Charges.pdf)
 
 # Machine Learning with Python
-Implementation of machine learning algorithms including [regression](https://github.com/ycc3041/Machine-Learning/tree/master/Regression), [classification](https://github.com/ycc3041/Machine-Learning/tree/master/Classification) and [clustering](https://github.com/ycc3041/Machine-Learning/tree/master/Clustering)
+## Implementation of machine learning algorithms including [regression](https://github.com/ycc3041/Machine-Learning/tree/master/Regression), [classification](https://github.com/ycc3041/Machine-Learning/tree/master/Classification) and [clustering](https://github.com/ycc3041/Machine-Learning/tree/master/Clustering)
 * Predicting House Prices
 * Analyzing Sentiment of Amazon Product Reviews
 * Finding Similar Wiki Documents
