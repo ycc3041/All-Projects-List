@@ -10,16 +10,16 @@ Implementation of machine learning algorithms including [regression](https://git
 * Finding Similar Wiki Documents
 
 # Data Visualization
-* [Pokemon Data Visualization with Tableau](https://public.tableau.com/profile/yung.ching.chen#!/vizhome/PokemonDataVisualization/Story1)
-* [Development of Logistics Data Visualization System](https://github.com/ycc3041/All-Projects-List/blob/master/Development%20of%20Logistics%20Data%20Visualization%20System.pdf) @Yahoo Taiwan, Summer 2017
-* [Visualization with Python](https://github.com/ycc3041/Data-Visualization)
+* [Pokemon Data Visualization with Tableau](https://public.tableau.com/profile/yung.ching.chen#!/vizhome/PokemonDataVisualization/Story1), 2018
+* [Visualization with Python](https://github.com/ycc3041/Data-Visualization), 2018
 (1) Basic Visualization Techniques with Car Dataset
 (2) Visualization with Interaction with Countries Dataset
 (3) Networks Visualization with 1997 US Airlines Dataset
+* [Development of Logistics Data Visualization System](https://github.com/ycc3041/All-Projects-List/blob/master/Development%20of%20Logistics%20Data%20Visualization%20System.pdf) @Yahoo Taiwan, Summer 2017
 
 # Optimization 
-* [Linear Programming: Simplex Method](https://github.com/ycc3041/Optimization/blob/master/I.%20Simplex%20Method.py)
-* [Quadratic Programming: Active Set Method](https://github.com/ycc3041/Optimization/blob/master/II.%20Active%20Set%20Method.py)
+* [Linear Programming: Simplex Method](https://github.com/ycc3041/Optimization/blob/master/I.%20Simplex%20Method.py), 2018
+* [Quadratic Programming: Active Set Method](https://github.com/ycc3041/Optimization/blob/master/II.%20Active%20Set%20Method.py), 2019
 
 # Manufacturing and Production Systems
 * [Production & Operations Improvements](https://github.com/ycc3041/All-Projects-List/blob/master/Production%20%26%20Operations%20Improvements.pdf) @Aeon Motor Industry, 2016
