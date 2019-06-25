@@ -1,6 +1,7 @@
 # Predictive Modeling in R
-Predictive modeling projects involving in EDA, feature engineering, model algorithms(regression, RF, GAM, MARS, BART, SVM...), model selection and inference, 2019  
-
+Predictive modeling projects involving in EDA, feature engineering, model algorithms(regression, stepwise regression, random forest, gradient boosting, generalized additive models, multivariate adaptive regression splines, bayesian additive regression trees, support vector machine), model selection and inference, 2019  
+* Prediction of Electricity Consumption
+* Predictinn of Dengue Fever Cases
 
 # Machine Learning in Python
 Implementation of machine learning algorithms including [regression](https://github.com/ycc3041/Machine-Learning/tree/master/Regression), [classification](https://github.com/ycc3041/Machine-Learning/tree/master/Classification) and [clustering](https://github.com/ycc3041/Machine-Learning/tree/master/Clustering), 2018
