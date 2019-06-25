@@ -18,7 +18,8 @@ Implementation of machine learning algorithms including [regression](https://git
 (3) Networks Visualization with 1997 US Airlines Dataset
 
 # Optimization 
-* [Linear Programming: Simplex Method](https://github.com/ycc3041/Optimization)
+* [Linear Programming: Simplex Method](https://github.com/ycc3041/Optimization/blob/master/I.%20Simplex%20Method.py)
+* [Quadratic Programming: Active Set Method](https://github.com/ycc3041/Optimization/blob/master/II.%20Active%20Set%20Method.py)
 
 # Manufacturing and Production Systems
 * [Production & Operations Improvements](https://github.com/ycc3041/All-Projects-List/blob/master/Production%20%26%20Operations%20Improvements.pdf) @Aeon Motor Industry, 2016
