@@ -3,8 +3,8 @@
 * [Regression Analysis of Creative Jobs in US](https://github.com/ycc3041/Data-Science-with-R/blob/master/Regression%20Analysis%20of%20Creative%20Jobs%20in%20US.pdf)
 * [Regression Analysis of Health Insurance Charges](https://github.com/ycc3041/Data-Science-with-R/blob/master/Regression%20Analysis%20of%20Health%20Insurance%20Charges.pdf)
 
-# Machine Learning with Python
-Implementation of machine learning algorithms including [regression](https://github.com/ycc3041/Machine-Learning/tree/master/Regression), [classification](https://github.com/ycc3041/Machine-Learning/tree/master/Classification) and [clustering](https://github.com/ycc3041/Machine-Learning/tree/master/Clustering)
+# Machine Learning in Python
+Implementation of machine learning algorithms including [regression](https://github.com/ycc3041/Machine-Learning/tree/master/Regression), [classification](https://github.com/ycc3041/Machine-Learning/tree/master/Classification) and [clustering](https://github.com/ycc3041/Machine-Learning/tree/master/Clustering), 2018
 * Predicting House Prices
 * Analyzing Sentiment of Amazon Product Reviews
 * Finding Similar Wiki Documents
