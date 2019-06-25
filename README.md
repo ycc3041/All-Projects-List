@@ -18,8 +18,8 @@ Implementation of machine learning algorithms including [regression](https://git
 * [Development of Logistics Data Visualization System @Yahoo, 2017](https://github.com/ycc3041/All-Projects-List/blob/master/Development%20of%20Logistics%20Data%20Visualization%20System.pdf) 
 
 # Optimization 
-* [Linear Programming: Simplex Method, 2018](https://github.com/ycc3041/Optimization/blob/master/I.%20Simplex%20Method.py)
 * [Quadratic Programming: Active Set Method, 2019](https://github.com/ycc3041/Optimization/blob/master/II.%20Active%20Set%20Method.py)
+* [Linear Programming: Simplex Method, 2018](https://github.com/ycc3041/Optimization/blob/master/I.%20Simplex%20Method.py)
 
 # Manufacturing and Production Systems
 * [Production & Operations Improvements @Aeon Motor Industry, 2016](https://github.com/ycc3041/All-Projects-List/blob/master/Production%20%26%20Operations%20Improvements.pdf) 
