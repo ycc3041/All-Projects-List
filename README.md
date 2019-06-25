@@ -1,8 +1,8 @@
 # Predictive Modeling in R
 Predictive modeling projects involving in EDA, feature engineering, machine learning algorithms(regression, stepwise regression, random forest, gradient boosting, generalized additive models, multivariate adaptive regression splines, bayesian additive regression trees, support vector machine), model selection and inference
-* [Prediction of Dengue Fever Cases, 2019](https://github.com/ycc3041/Predictive-Modeling-in-R/blob/master/Prediction%20of%20Dengue%20Fever%20Cases_Presentation.pdf)
-* [Prediction of Electricity Consumption, 2019](https://github.com/ycc3041/Predictive-Modeling-in-R/blob/master/Prediction%20of%20Electricity%20Consumption.pdf)
-* [Regression Analysis of Health Insurance Charges, 2018](https://github.com/ycc3041/Predictive-Modeling-in-R/blob/master/Regression%20Analysis%20of%20Health%20Insurance%20Charges.pdf)
+* [Prediction of Dengue Fever Cases, 2019](https://github.com/ycc3041/Predictive-Modeling-in-R/blob/master/Project%20Documents/Prediction%20of%20Dengue%20Fever%20Cases.pdf)
+* [Prediction of Electricity Consumption, 2019](https://github.com/ycc3041/Predictive-Modeling-in-R/blob/master/Project%20Documents/Prediction%20of%20Electricity%20Consumption.pdf)
+* [Regression Analysis of Health Insurance Charges, 2018](https://github.com/ycc3041/Predictive-Modeling-in-R/blob/master/Project%20Documents/Regression%20Analysis%20of%20Health%20Insurance%20Charges.pdf)
 * [R Codes](https://github.com/ycc3041/Predictive-Modeling-in-R/tree/master/R%20Codes)
 
 # Machine Learning in Python
