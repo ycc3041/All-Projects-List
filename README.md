@@ -1,5 +1,5 @@
 # Predictive Modeling in R
-Predictive modeling projects involving in EDA, feature engineering, model algorithms(regression, RF, GAM, MARS, BART, SVM...), model selection and inference.  
+Predictive modeling projects involving in EDA, feature engineering, model algorithms(regression, RF, GAM, MARS, BART, SVM...), model selection and inference, 2019  
 
 
 # Machine Learning in Python
