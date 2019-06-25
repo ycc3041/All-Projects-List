@@ -1,4 +1,4 @@
-# Data Scienece with R
+# Predictive Modeling in R
 * [Tree-Based Methods on Prediction of Tropical Storms](https://github.com/ycc3041/Data-Science-with-R/blob/master/Tree-Based%20Methods%20on%20Prediction%20of%20Tropical%20Storms.pdf)
 * [Regression Analysis of Creative Jobs in US](https://github.com/ycc3041/Data-Science-with-R/blob/master/Regression%20Analysis%20of%20Creative%20Jobs%20in%20US.pdf)
 * [Regression Analysis of Health Insurance Charges](https://github.com/ycc3041/Data-Science-with-R/blob/master/Regression%20Analysis%20of%20Health%20Insurance%20Charges.pdf)
