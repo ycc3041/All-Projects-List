@@ -8,13 +8,13 @@ Predictive modeling projects involving in EDA, feature engineering, machine lear
 # (II) Machine Learning in Python
 Implementation of machine learning algorithms including [regression](https://github.com/ycc3041/Machine-Learning/tree/master/Regression), [classification](https://github.com/ycc3041/Machine-Learning/tree/master/Classification) and [clustering](https://github.com/ycc3041/Machine-Learning/tree/master/Clustering), 2018
 
-### Models
+## Models
 linear regression, regularization, nearest neighbor, kernel regression, logistic regression, decision trees, ensembles, nearest neighbors, clustering, mixtures of Gaussians, latent dirchlet allocation
-### Algorithms
+## Algorithms
 gradient descent, coordinate descent, stochastic gradient, recursive greedy, boosting, KD-trees, locality sensitive hashing, k-means 
-### Concepts
+## Concepts
 loss functions, bias-variance tradeoff, cross-validation, model selection, feature selection, sparsity, alleviating overfitting, precision-recall, distance metrics, approximation algorithms, probabilistic modeling
-### Projects List
+## Projects List
 * Predicting House Prices
 * Analyzing Sentiment of Amazon Product Reviews
 * Finding Similar Wiki Documents
