@@ -22,9 +22,9 @@ loss functions, bias-variance tradeoff, cross-validation, model selection, featu
 # (III) Data Visualization
 * [Pokemon Data Visualization in Tableau, 2018](https://public.tableau.com/profile/yung.ching.chen#!/vizhome/PokemonDataVisualization/Story1)
 * [Visualization in Python, 2018](https://github.com/ycc3041/Data-Visualization)\
-I. Basic Visualization Techniques with Car Dataset\
-II. Visualization with Interaction with Countries Dataset\
-III. Networks Visualization with 1997 US Airlines Dataset
+1. Basic Visualization Techniques with Car Dataset\
+2. Visualization with Interaction with Countries Dataset\
+3. Networks Visualization with 1997 US Airlines Dataset
 * [Development of Logistics Data Visualization System @Yahoo, 2017](https://github.com/ycc3041/All-Projects-List/blob/master/Development%20of%20Logistics%20Data%20Visualization%20System.pdf) 
 
 # (IV) Optimization 
