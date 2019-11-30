@@ -21,7 +21,7 @@ loss functions, bias-variance tradeoff, cross-validation, model selection, featu
 
 # (III) Deep Learning in Machine Vision
 * Object Detection for 64 Food Categories Using YOLOv3
-Codes and documentations coming soon! (11.2019) 
+(Codes and documentations coming soon! 11.2019) 
 
 # (IV) Data Visualization
 * [Pokemon Data Visualization in Tableau, 2018](https://public.tableau.com/profile/yung.ching.chen#!/vizhome/PokemonDataVisualization/Story1)
