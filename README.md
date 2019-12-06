@@ -24,9 +24,9 @@ Gradient descent, coordinate descent, stochastic gradient, recursive greedy, boo
 ### Concepts
 Loss functions, bias-variance tradeoff, cross-validation, model selection, feature selection, sparsity, alleviating overfitting, precision-recall, distance metrics, approximation algorithms, probabilistic modeling
 ### Projects List
-* Predicting House Prices
-* Analyzing Sentiment of Amazon Product Reviews
-* Finding Similar Wiki Documents
+* [Predicting House Prices, 2018](https://github.com/ycc3041/Machine-Learning/tree/master/Regression)
+* [Analyzing Sentiment of Amazon Product Reviews, 2018](https://github.com/ycc3041/Machine-Learning/tree/master/Classification)
+* [Finding Similar Wiki Documents, 2018](https://github.com/ycc3041/Machine-Learning/tree/master/Clustering) 
 
 # (V) Data Visualization
 * [Pokemon Data Visualization in Tableau, 2018](https://public.tableau.com/profile/yung.ching.chen#!/vizhome/PokemonDataVisualization/Story1)
