@@ -1,12 +1,12 @@
 # (I) Machine Vision
 * Object Detection for 64 Categories of Food Using YOLOv3, 2019 \
-15K training images, 45K training bounded boxes, mAP: 0.42
+(15K training images, 45K training bounded boxes, mAP: 0.42)
 
 # (II) Natural Language Processing
-* Text Classification for BBC News, 2019
-2K training data, acc: 96.9%
-* Sentiment Analysis in IMDB, 2019
-50K training data, acc: 80.7%
+* Text Classification for BBC News, 2019 \
+(2K training data, acc: 96.9%)
+* Sentiment Analysis in IMDB, 2019 \
+(50K training data, acc: 80.7%)
 
 # (III) Predictive Modeling in R
 Predictive modeling projects involving EDA, feature engineering, machine learning algorithms (regression, stepwise regression, random forest, gradient boosting, generalized additive models, multivariate adaptive regression splines, bayesian additive regression trees, support vector machine), model selection and model inference.
