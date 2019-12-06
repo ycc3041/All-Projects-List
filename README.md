@@ -3,9 +3,9 @@
 (15K training images, 45K training bounded boxes, mAP: 0.42)
 
 # (II) Natural Language Processing
-* Text Classification for BBC News, 2019 \
+* [Text Classification for BBC News, 2019](https://github.com/ycc3041/Deep-Learning-Applications-with-TensorFlow/blob/master/NLP/Text%20Classification%20for%20BBC%20News.ipynb) \
 (2K training data, acc: 96.9%)
-* Sentiment Analysis in IMDB - with Word Embedding Visaulization on TensorFlow Embedding Projector, 2019 \
+* [Sentiment Analysis in IMDB - with Word Embedding Visaulization on TensorFlow Embedding Projector, 2019](https://github.com/ycc3041/Deep-Learning-Applications-with-TensorFlow/blob/master/NLP/Sentiment%20Analysis%20in%20IMDB%20.ipynb) \
 (50K training data, acc: 80.7%)
 
 # (III) Predictive Modeling in R
