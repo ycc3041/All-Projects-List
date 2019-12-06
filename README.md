@@ -1,5 +1,5 @@
 # (I) Machine Vision
-* Object Detection for 64 Categories of Food Using YOLOv3, 2019
+* Object Detection for 64 Categories of Food Using YOLOv3, 2019 \
 15K training images, 45K training bounded boxes, mAP: 0.42
 
 # (II) Natural Language Processing
