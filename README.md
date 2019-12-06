@@ -5,7 +5,7 @@
 # (II) Natural Language Processing
 * Text Classification for BBC News, 2019 \
 (2K training data, acc: 96.9%)
-* Sentiment Analysis in IMDB, 2019 \
+* Sentiment Analysis in IMDB - with Word Embedding Visaulization on TensorFlow Embedding Projector, 2019 \
 (50K training data, acc: 80.7%)
 
 # (III) Predictive Modeling in R
