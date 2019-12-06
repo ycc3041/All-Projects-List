@@ -12,7 +12,7 @@
 Predictive modeling projects involving EDA, feature engineering, machine learning algorithms (regression, stepwise regression, random forest, gradient boosting, generalized additive models, multivariate adaptive regression splines, bayesian additive regression trees, support vector machine), model selection and model inference.
 * [Prediction of Dengue Fever Cases, 2019](https://github.com/ycc3041/Predictive-Modeling-in-R/blob/master/Project%20Documents/Prediction%20of%20Dengue%20Fever%20Cases.pdf)\
 (RF/GBM provides 35.0% improvement over MAE of the null model)
-* [Prediction of Electricity Consumption, 2019](https://github.com/ycc3041/Predictive-Modeling-in-R/blob/master/Project%20Documents/Prediction%20of%20Electricity%20Consumption.pdf)
+* [Prediction of Electricity Consumption, 2019](https://github.com/ycc3041/Predictive-Modeling-in-R/blob/master/Project%20Documents/Prediction%20of%20Electricity%20Consumption.pdf) \
 (BART model provides 80.9% improvement over RMSE of the null model)
 * [Regression Analysis of Health Insurance Charges, 2018](https://github.com/ycc3041/Predictive-Modeling-in-R/blob/master/Project%20Documents/Regression%20Analysis%20of%20Health%20Insurance%20Charges.pdf)
 
